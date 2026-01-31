@@ -12,7 +12,7 @@ export default function Home() {
       <ul className="space-y-2 text-blue-700 underline text-base">
         <li><Link href="/resume">Curriculum Vitae</Link></li>
         <li><Link href="/about">About</Link></li>
-        <li><a href="mailto:c@cladd.blog">Email</a></li>
+        <li><a href="mailto:christopher.ladd@utexas.edu">Email</a></li>
       </ul>
     </main>
   );
