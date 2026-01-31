@@ -13,6 +13,7 @@ export default function Home() {
         <li><Link href="/resume">Curriculum Vitae</Link></li>
         <li><Link href="/about">About</Link></li>
         <li><a href="mailto:christopher.ladd@utexas.edu">Email</a></li>
+        <li><a href="mailto:conan.ladd@gmail.com">Email</a></li>
       </ul>
     </main>
   );
