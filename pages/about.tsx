@@ -11,7 +11,7 @@ export default function About() {
           Areas of focus include: discrete functions, fractals, and scaling behavior.
         </p>
         <p>
-          For inquiries or collaboration: <a href="mailto:c@cladd.blog" className="text-blue-700 underline">c@cladd.blog</a>
+          For inquiries or collaboration: <a href="mailto:christopher.ladd@utexas.edu" className="text-blue-700 underline">christopher.ladd@utexas.edu</a>
         </p>
       </section>
     </main>
